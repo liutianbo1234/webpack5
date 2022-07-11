@@ -1,0 +1,7 @@
+.hello{
+  color: red;
+  font-weight: 700;
+}
+.block-bg{
+  background: url('./assets/lan.jpg')  no-repeat  center !important;
+}
